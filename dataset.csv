@@ -1,0 +1,565 @@
+RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Cantidad,Descuento_Bool
+1,1,Chamarra Azul - Mediana,200.00,200.00,1,Enero,1996,0.00,0
+2,1,Chamarra Azul - Mediana,200.00,200.00,2,Febrero,1996,0.00,0
+3,1,Chamarra Azul - Mediana,200.00,200.00,3,Marzo,1996,0.00,0
+4,1,Chamarra Azul - Mediana,200.00,160.00,4,Abril,1996,0.30,1
+5,1,Chamarra Azul - Mediana,200.00,200.00,5,Mayo,1996,0.00,0
+6,1,Chamarra Azul - Mediana,200.00,160.00,6,Junio,1996,0.30,1
+7,1,Chamarra Azul - Mediana,200.00,200.00,7,Julio,1996,0.00,0
+8,1,Chamarra Azul - Mediana,200.00,200.00,8,Agosto,1996,0.00,0
+9,1,Chamarra Azul - Mediana,200.00,200.00,9,Septiembre,1996,0.00,0
+10,1,Chamarra Azul - Mediana,200.00,200.00,10,Octubre,1996,0.00,0
+11,1,Chamarra Azul - Mediana,200.00,200.00,11,Noviembre,1996,0.00,0
+12,1,Chamarra Azul - Mediana,200.00,200.00,12,Diciembre,1996,0.00,0
+13,1,Chamarra Azul - Mediana,190.00,190.00,1,Enero,1997,0.00,0
+14,1,Chamarra Azul - Mediana,190.00,190.00,2,Febrero,1997,0.00,0
+15,1,Chamarra Azul - Mediana,190.00,190.00,3,Marzo,1997,0.00,0
+16,1,Chamarra Azul - Mediana,190.00,152.00,4,Abril,1997,0.30,1
+17,1,Chamarra Azul - Mediana,190.00,190.00,5,Mayo,1997,0.00,0
+18,1,Chamarra Azul - Mediana,190.00,152.00,6,Junio,1997,0.20,1
+19,1,Chamarra Azul - Mediana,190.00,190.00,7,Julio,1997,0.00,0
+20,1,Chamarra Azul - Mediana,190.00,190.00,8,Agosto,1997,0.00,0
+21,1,Chamarra Azul - Mediana,190.00,190.00,9,Septiembre,1997,0.00,0
+22,1,Chamarra Azul - Mediana,190.00,190.00,10,Octubre,1997,0.00,0
+23,1,Chamarra Azul - Mediana,190.00,190.00,11,Noviembre,1997,0.00,0
+24,1,Chamarra Azul - Mediana,190.00,190.00,12,Diciembre,1997,0.00,0
+25,1,Chamarra Azul - Mediana,180.50,180.50,1,Enero,1998,0.00,0
+26,1,Chamarra Azul - Mediana,180.50,180.50,2,Febrero,1998,0.00,0
+27,1,Chamarra Azul - Mediana,180.50,180.50,3,Marzo,1998,0.00,0
+28,1,Chamarra Azul - Mediana,180.50,144.40,4,Abril,1998,0.50,1
+29,1,Chamarra Azul - Mediana,180.50,180.50,5,Mayo,1998,0.00,0
+30,1,Chamarra Azul - Mediana,180.50,144.40,6,Junio,1998,0.20,1
+31,1,Chamarra Azul - Mediana,180.50,180.50,7,Julio,1998,0.00,0
+32,1,Chamarra Azul - Mediana,180.50,180.50,8,Agosto,1998,0.00,0
+33,1,Chamarra Azul - Mediana,180.50,180.50,9,Septiembre,1998,0.00,0
+34,1,Chamarra Azul - Mediana,180.50,180.50,10,Octubre,1998,0.00,0
+35,1,Chamarra Azul - Mediana,180.50,180.50,11,Noviembre,1998,0.00,0
+36,1,Chamarra Azul - Mediana,180.50,180.50,12,Diciembre,1998,0.00,0
+37,1,Chamarra Azul - Mediana,171.47,171.47,1,Enero,1999,0.00,0
+38,1,Chamarra Azul - Mediana,171.47,171.47,2,Febrero,1999,0.00,0
+39,1,Chamarra Azul - Mediana,171.47,171.47,3,Marzo,1999,0.00,0
+40,1,Chamarra Azul - Mediana,171.47,137.18,4,Abril,1999,0.50,1
+41,1,Chamarra Azul - Mediana,171.47,171.47,5,Mayo,1999,0.00,0
+42,1,Chamarra Azul - Mediana,171.47,137.18,6,Junio,1999,0.50,1
+43,1,Chamarra Azul - Mediana,171.47,171.47,7,Julio,1999,0.00,0
+44,1,Chamarra Azul - Mediana,171.47,171.47,8,Agosto,1999,0.00,0
+45,1,Chamarra Azul - Mediana,171.47,171.47,9,Septiembre,1999,0.00,0
+46,1,Chamarra Azul - Mediana,171.47,171.47,10,Octubre,1999,0.00,0
+47,1,Chamarra Azul - Mediana,171.47,171.47,11,Noviembre,1999,0.00,0
+48,1,Chamarra Azul - Mediana,171.47,171.47,12,Diciembre,1999,0.00,0
+49,1,Chamarra Azul - Mediana,162.90,162.90,1,Enero,2000,0.00,0
+50,1,Chamarra Azul - Mediana,162.90,162.90,2,Febrero,2000,0.00,0
+51,1,Chamarra Azul - Mediana,162.90,162.90,3,Marzo,2000,0.00,0
+52,1,Chamarra Azul - Mediana,162.90,130.32,4,Abril,2000,0.50,1
+53,1,Chamarra Azul - Mediana,162.90,162.90,5,Mayo,2000,0.00,0
+54,1,Chamarra Azul - Mediana,162.90,130.32,6,Junio,2000,0.30,1
+55,1,Chamarra Azul - Mediana,162.90,162.90,7,Julio,2000,0.00,0
+56,1,Chamarra Azul - Mediana,162.90,162.90,8,Agosto,2000,0.00,0
+57,1,Chamarra Azul - Mediana,162.90,162.90,9,Septiembre,2000,0.00,0
+58,1,Chamarra Azul - Mediana,162.90,162.90,10,Octubre,2000,0.00,0
+59,1,Chamarra Azul - Mediana,162.90,162.90,11,Noviembre,2000,0.00,0
+60,1,Chamarra Azul - Mediana,162.90,162.90,12,Diciembre,2000,0.00,0
+61,1,Chamarra Azul - Mediana,154.76,154.76,1,Enero,2001,0.00,0
+62,1,Chamarra Azul - Mediana,154.76,154.76,2,Febrero,2001,0.00,0
+63,1,Chamarra Azul - Mediana,154.76,154.76,3,Marzo,2001,0.00,0
+64,1,Chamarra Azul - Mediana,154.76,123.80,4,Abril,2001,0.40,1
+65,1,Chamarra Azul - Mediana,154.76,154.76,5,Mayo,2001,0.00,0
+66,1,Chamarra Azul - Mediana,154.76,123.80,6,Junio,2001,0.50,1
+67,1,Chamarra Azul - Mediana,154.76,154.76,7,Julio,2001,0.00,0
+68,1,Chamarra Azul - Mediana,154.76,154.76,8,Agosto,2001,0.00,0
+69,1,Chamarra Azul - Mediana,154.76,154.76,9,Septiembre,2001,0.00,0
+70,1,Chamarra Azul - Mediana,154.76,154.76,10,Octubre,2001,0.00,0
+71,1,Chamarra Azul - Mediana,154.76,154.76,11,Noviembre,2001,0.00,0
+72,1,Chamarra Azul - Mediana,154.76,154.76,12,Diciembre,2001,0.00,0
+73,1,Chamarra Azul - Mediana,147.02,147.02,1,Enero,2002,0.00,0
+74,1,Chamarra Azul - Mediana,147.02,147.02,2,Febrero,2002,0.00,0
+75,1,Chamarra Azul - Mediana,147.02,147.02,3,Marzo,2002,0.00,0
+76,1,Chamarra Azul - Mediana,147.02,117.61,4,Abril,2002,0.40,1
+77,1,Chamarra Azul - Mediana,147.02,147.02,5,Mayo,2002,0.00,0
+78,1,Chamarra Azul - Mediana,147.02,117.61,6,Junio,2002,0.20,1
+79,1,Chamarra Azul - Mediana,147.02,147.02,7,Julio,2002,0.00,0
+80,1,Chamarra Azul - Mediana,147.02,147.02,8,Agosto,2002,0.00,0
+81,1,Chamarra Azul - Mediana,147.02,147.02,9,Septiembre,2002,0.00,0
+82,1,Chamarra Azul - Mediana,147.02,147.02,10,Octubre,2002,0.00,0
+83,1,Chamarra Azul - Mediana,147.02,147.02,11,Noviembre,2002,0.00,0
+84,1,Chamarra Azul - Mediana,147.02,147.02,12,Diciembre,2002,0.00,0
+85,1,Chamarra Azul - Mediana,139.67,139.67,1,Enero,2003,0.00,0
+86,1,Chamarra Azul - Mediana,139.67,139.67,2,Febrero,2003,0.00,0
+87,1,Chamarra Azul - Mediana,139.67,139.67,3,Marzo,2003,0.00,0
+88,1,Chamarra Azul - Mediana,139.67,111.73,4,Abril,2003,0.40,1
+89,1,Chamarra Azul - Mediana,139.67,139.67,5,Mayo,2003,0.00,0
+90,1,Chamarra Azul - Mediana,139.67,111.73,6,Junio,2003,0.20,1
+91,1,Chamarra Azul - Mediana,139.67,139.67,7,Julio,2003,0.00,0
+92,1,Chamarra Azul - Mediana,139.67,139.67,8,Agosto,2003,0.00,0
+93,1,Chamarra Azul - Mediana,139.67,139.67,9,Septiembre,2003,0.00,0
+94,1,Chamarra Azul - Mediana,139.67,139.67,10,Octubre,2003,0.00,0
+95,1,Chamarra Azul - Mediana,139.67,139.67,11,Noviembre,2003,0.00,0
+96,1,Chamarra Azul - Mediana,139.67,139.67,12,Diciembre,2003,0.00,0
+97,1,Chamarra Azul - Mediana,132.68,132.68,1,Enero,2004,0.00,0
+98,1,Chamarra Azul - Mediana,132.68,132.68,2,Febrero,2004,0.00,0
+99,1,Chamarra Azul - Mediana,132.68,132.68,3,Marzo,2004,0.00,0
+100,1,Chamarra Azul - Mediana,132.68,106.15,4,Abril,2004,0.20,1
+101,1,Chamarra Azul - Mediana,132.68,132.68,5,Mayo,2004,0.00,0
+102,1,Chamarra Azul - Mediana,132.68,106.15,6,Junio,2004,0.50,1
+103,1,Chamarra Azul - Mediana,132.68,132.68,7,Julio,2004,0.00,0
+104,1,Chamarra Azul - Mediana,132.68,132.68,8,Agosto,2004,0.00,0
+105,1,Chamarra Azul - Mediana,132.68,132.68,9,Septiembre,2004,0.00,0
+106,1,Chamarra Azul - Mediana,132.68,132.68,10,Octubre,2004,0.00,0
+107,1,Chamarra Azul - Mediana,132.68,132.68,11,Noviembre,2004,0.00,0
+108,1,Chamarra Azul - Mediana,132.68,132.68,12,Diciembre,2004,0.00,0
+109,1,Chamarra Azul - Mediana,126.05,126.05,1,Enero,2005,0.00,0
+110,1,Chamarra Azul - Mediana,126.05,126.05,2,Febrero,2005,0.00,0
+111,1,Chamarra Azul - Mediana,126.05,126.05,3,Marzo,2005,0.00,0
+112,1,Chamarra Azul - Mediana,126.05,100.84,4,Abril,2005,0.30,1
+113,1,Chamarra Azul - Mediana,126.05,126.05,5,Mayo,2005,0.00,0
+114,1,Chamarra Azul - Mediana,126.05,100.84,6,Junio,2005,0.30,1
+115,1,Chamarra Azul - Mediana,126.05,126.05,7,Julio,2005,0.00,0
+116,1,Chamarra Azul - Mediana,126.05,126.05,8,Agosto,2005,0.00,0
+117,1,Chamarra Azul - Mediana,126.05,126.05,9,Septiembre,2005,0.00,0
+118,1,Chamarra Azul - Mediana,126.05,126.05,10,Octubre,2005,0.00,0
+119,1,Chamarra Azul - Mediana,126.05,126.05,11,Noviembre,2005,0.00,0
+120,1,Chamarra Azul - Mediana,126.05,126.05,12,Diciembre,2005,0.00,0
+121,1,Chamarra Azul - Mediana,119.75,119.75,1,Enero,2006,0.00,0
+122,1,Chamarra Azul - Mediana,119.75,119.75,2,Febrero,2006,0.00,0
+123,1,Chamarra Azul - Mediana,119.75,119.75,3,Marzo,2006,0.00,0
+124,1,Chamarra Azul - Mediana,119.75,95.80,4,Abril,2006,0.50,1
+125,1,Chamarra Azul - Mediana,119.75,119.75,5,Mayo,2006,0.00,0
+126,1,Chamarra Azul - Mediana,119.75,95.80,6,Junio,2006,0.50,1
+127,1,Chamarra Azul - Mediana,119.75,119.75,7,Julio,2006,0.00,0
+128,1,Chamarra Azul - Mediana,119.75,119.75,8,Agosto,2006,0.00,0
+129,1,Chamarra Azul - Mediana,119.75,119.75,9,Septiembre,2006,0.00,0
+130,1,Chamarra Azul - Mediana,119.75,119.75,10,Octubre,2006,0.00,0
+131,1,Chamarra Azul - Mediana,119.75,119.75,11,Noviembre,2006,0.00,0
+132,1,Chamarra Azul - Mediana,119.75,119.75,12,Diciembre,2006,0.00,0
+133,1,Chamarra Azul - Mediana,113.76,113.76,1,Enero,2007,0.00,0
+134,1,Chamarra Azul - Mediana,113.76,113.76,2,Febrero,2007,0.00,0
+135,1,Chamarra Azul - Mediana,113.76,113.76,3,Marzo,2007,0.00,0
+136,1,Chamarra Azul - Mediana,113.76,91.01,4,Abril,2007,0.50,1
+137,1,Chamarra Azul - Mediana,113.76,113.76,5,Mayo,2007,0.00,0
+138,1,Chamarra Azul - Mediana,113.76,91.01,6,Junio,2007,0.20,1
+139,1,Chamarra Azul - Mediana,113.76,113.76,7,Julio,2007,0.00,0
+140,1,Chamarra Azul - Mediana,113.76,113.76,8,Agosto,2007,0.00,0
+141,1,Chamarra Azul - Mediana,113.76,113.76,9,Septiembre,2007,0.00,0
+142,1,Chamarra Azul - Mediana,113.76,113.76,10,Octubre,2007,0.00,0
+143,1,Chamarra Azul - Mediana,113.76,113.76,11,Noviembre,2007,0.00,0
+144,1,Chamarra Azul - Mediana,113.76,113.76,12,Diciembre,2007,0.00,0
+145,1,Chamarra Azul - Mediana,108.07,108.07,1,Enero,2008,0.00,0
+146,1,Chamarra Azul - Mediana,108.07,108.07,2,Febrero,2008,0.00,0
+147,1,Chamarra Azul - Mediana,108.07,108.07,3,Marzo,2008,0.00,0
+148,1,Chamarra Azul - Mediana,108.07,86.46,4,Abril,2008,0.30,1
+149,1,Chamarra Azul - Mediana,108.07,108.07,5,Mayo,2008,0.00,0
+150,1,Chamarra Azul - Mediana,108.07,86.46,6,Junio,2008,0.40,1
+151,1,Chamarra Azul - Mediana,108.07,108.07,7,Julio,2008,0.00,0
+152,1,Chamarra Azul - Mediana,108.07,108.07,8,Agosto,2008,0.00,0
+153,1,Chamarra Azul - Mediana,108.07,108.07,9,Septiembre,2008,0.00,0
+154,1,Chamarra Azul - Mediana,108.07,108.07,10,Octubre,2008,0.00,0
+155,1,Chamarra Azul - Mediana,108.07,108.07,11,Noviembre,2008,0.00,0
+156,1,Chamarra Azul - Mediana,108.07,108.07,12,Diciembre,2008,0.00,0
+157,1,Chamarra Azul - Mediana,102.67,102.67,1,Enero,2009,0.00,0
+158,1,Chamarra Azul - Mediana,102.67,102.67,2,Febrero,2009,0.00,0
+159,1,Chamarra Azul - Mediana,102.67,102.67,3,Marzo,2009,0.00,0
+160,1,Chamarra Azul - Mediana,102.67,82.13,4,Abril,2009,0.30,1
+161,1,Chamarra Azul - Mediana,102.67,102.67,5,Mayo,2009,0.00,0
+162,1,Chamarra Azul - Mediana,102.67,82.13,6,Junio,2009,0.20,1
+163,1,Chamarra Azul - Mediana,102.67,102.67,7,Julio,2009,0.00,0
+164,1,Chamarra Azul - Mediana,102.67,102.67,8,Agosto,2009,0.00,0
+165,1,Chamarra Azul - Mediana,102.67,102.67,9,Septiembre,2009,0.00,0
+166,1,Chamarra Azul - Mediana,102.67,102.67,10,Octubre,2009,0.00,0
+167,1,Chamarra Azul - Mediana,102.67,102.67,11,Noviembre,2009,0.00,0
+168,1,Chamarra Azul - Mediana,102.67,102.67,12,Diciembre,2009,0.00,0
+169,1,Chamarra Azul - Mediana,97.53,97.53,1,Enero,2010,0.00,0
+170,1,Chamarra Azul - Mediana,97.53,97.53,2,Febrero,2010,0.00,0
+171,1,Chamarra Azul - Mediana,97.53,97.53,3,Marzo,2010,0.00,0
+172,1,Chamarra Azul - Mediana,97.53,78.03,4,Abril,2010,0.30,1
+173,1,Chamarra Azul - Mediana,97.53,97.53,5,Mayo,2010,0.00,0
+174,1,Chamarra Azul - Mediana,97.53,78.03,6,Junio,2010,0.30,1
+175,1,Chamarra Azul - Mediana,97.53,97.53,7,Julio,2010,0.00,0
+176,1,Chamarra Azul - Mediana,97.53,97.53,8,Agosto,2010,0.00,0
+177,1,Chamarra Azul - Mediana,97.53,97.53,9,Septiembre,2010,0.00,0
+178,1,Chamarra Azul - Mediana,97.53,97.53,10,Octubre,2010,0.00,0
+179,1,Chamarra Azul - Mediana,97.53,97.53,11,Noviembre,2010,0.00,0
+180,1,Chamarra Azul - Mediana,97.53,97.53,12,Diciembre,2010,0.00,0
+181,1,Chamarra Azul - Mediana,92.66,92.66,1,Enero,2011,0.00,0
+182,1,Chamarra Azul - Mediana,92.66,92.66,2,Febrero,2011,0.00,0
+183,1,Chamarra Azul - Mediana,92.66,92.66,3,Marzo,2011,0.00,0
+184,1,Chamarra Azul - Mediana,92.66,74.13,4,Abril,2011,0.40,1
+185,1,Chamarra Azul - Mediana,92.66,92.66,5,Mayo,2011,0.00,0
+186,1,Chamarra Azul - Mediana,92.66,74.13,6,Junio,2011,0.50,1
+187,1,Chamarra Azul - Mediana,92.66,92.66,7,Julio,2011,0.00,0
+188,1,Chamarra Azul - Mediana,92.66,92.66,8,Agosto,2011,0.00,0
+189,1,Chamarra Azul - Mediana,92.66,92.66,9,Septiembre,2011,0.00,0
+190,1,Chamarra Azul - Mediana,92.66,92.66,10,Octubre,2011,0.00,0
+191,1,Chamarra Azul - Mediana,92.66,92.66,11,Noviembre,2011,0.00,0
+192,1,Chamarra Azul - Mediana,92.66,92.66,12,Diciembre,2011,0.00,0
+193,1,Chamarra Azul - Mediana,88.03,88.03,1,Enero,2012,0.00,0
+194,1,Chamarra Azul - Mediana,88.03,88.03,2,Febrero,2012,0.00,0
+195,1,Chamarra Azul - Mediana,88.03,88.03,3,Marzo,2012,0.00,0
+196,1,Chamarra Azul - Mediana,88.03,70.42,4,Abril,2012,0.20,1
+197,1,Chamarra Azul - Mediana,88.03,88.03,5,Mayo,2012,0.00,0
+198,1,Chamarra Azul - Mediana,88.03,70.42,6,Junio,2012,0.50,1
+199,1,Chamarra Azul - Mediana,88.03,88.03,7,Julio,2012,0.00,0
+200,1,Chamarra Azul - Mediana,88.03,88.03,8,Agosto,2012,0.00,0
+201,1,Chamarra Azul - Mediana,88.03,88.03,9,Septiembre,2012,0.00,0
+202,1,Chamarra Azul - Mediana,88.03,88.03,10,Octubre,2012,0.00,0
+203,1,Chamarra Azul - Mediana,88.03,88.03,11,Noviembre,2012,0.00,0
+204,1,Chamarra Azul - Mediana,88.03,88.03,12,Diciembre,2012,0.00,0
+205,1,Chamarra Azul - Mediana,83.62,83.62,1,Enero,2013,0.00,0
+206,1,Chamarra Azul - Mediana,83.62,83.62,2,Febrero,2013,0.00,0
+207,1,Chamarra Azul - Mediana,83.62,83.62,3,Marzo,2013,0.00,0
+208,1,Chamarra Azul - Mediana,83.62,66.90,4,Abril,2013,0.30,1
+209,1,Chamarra Azul - Mediana,83.62,83.62,5,Mayo,2013,0.00,0
+210,1,Chamarra Azul - Mediana,83.62,66.90,6,Junio,2013,0.20,1
+211,1,Chamarra Azul - Mediana,83.62,83.62,7,Julio,2013,0.00,0
+212,1,Chamarra Azul - Mediana,83.62,83.62,8,Agosto,2013,0.00,0
+213,1,Chamarra Azul - Mediana,83.62,83.62,9,Septiembre,2013,0.00,0
+214,1,Chamarra Azul - Mediana,83.62,83.62,10,Octubre,2013,0.00,0
+215,1,Chamarra Azul - Mediana,83.62,83.62,11,Noviembre,2013,0.00,0
+216,1,Chamarra Azul - Mediana,83.62,83.62,12,Diciembre,2013,0.00,0
+217,1,Chamarra Azul - Mediana,79.44,79.44,1,Enero,2014,0.00,0
+218,1,Chamarra Azul - Mediana,79.44,79.44,2,Febrero,2014,0.00,0
+219,1,Chamarra Azul - Mediana,79.44,79.44,3,Marzo,2014,0.00,0
+220,1,Chamarra Azul - Mediana,79.44,63.55,4,Abril,2014,0.50,1
+221,1,Chamarra Azul - Mediana,79.44,79.44,5,Mayo,2014,0.00,0
+222,1,Chamarra Azul - Mediana,79.44,63.55,6,Junio,2014,0.40,1
+223,1,Chamarra Azul - Mediana,79.44,79.44,7,Julio,2014,0.00,0
+224,1,Chamarra Azul - Mediana,79.44,79.44,8,Agosto,2014,0.00,0
+225,1,Chamarra Azul - Mediana,79.44,79.44,9,Septiembre,2014,0.00,0
+226,1,Chamarra Azul - Mediana,79.44,79.44,10,Octubre,2014,0.00,0
+227,1,Chamarra Azul - Mediana,79.44,79.44,11,Noviembre,2014,0.00,0
+228,1,Chamarra Azul - Mediana,79.44,79.44,12,Diciembre,2014,0.00,0
+229,1,Chamarra Azul - Mediana,75.47,75.47,1,Enero,2015,0.00,0
+230,1,Chamarra Azul - Mediana,75.47,75.47,2,Febrero,2015,0.00,0
+231,1,Chamarra Azul - Mediana,75.47,75.47,3,Marzo,2015,0.00,0
+232,1,Chamarra Azul - Mediana,75.47,60.38,4,Abril,2015,0.30,1
+233,1,Chamarra Azul - Mediana,75.47,75.47,5,Mayo,2015,0.00,0
+234,1,Chamarra Azul - Mediana,75.47,60.38,6,Junio,2015,0.20,1
+235,1,Chamarra Azul - Mediana,75.47,75.47,7,Julio,2015,0.00,0
+236,1,Chamarra Azul - Mediana,75.47,75.47,8,Agosto,2015,0.00,0
+237,1,Chamarra Azul - Mediana,75.47,75.47,9,Septiembre,2015,0.00,0
+238,1,Chamarra Azul - Mediana,75.47,75.47,10,Octubre,2015,0.00,0
+239,1,Chamarra Azul - Mediana,75.47,75.47,11,Noviembre,2015,0.00,0
+240,1,Chamarra Azul - Mediana,75.47,75.47,12,Diciembre,2015,0.00,0
+241,1,Chamarra Azul - Mediana,71.70,71.70,1,Enero,2016,0.00,0
+242,1,Chamarra Azul - Mediana,71.70,71.70,2,Febrero,2016,0.00,0
+243,1,Chamarra Azul - Mediana,71.70,71.70,3,Marzo,2016,0.00,0
+244,1,Chamarra Azul - Mediana,71.70,57.36,4,Abril,2016,0.30,1
+245,1,Chamarra Azul - Mediana,71.70,71.70,5,Mayo,2016,0.00,0
+246,1,Chamarra Azul - Mediana,71.70,57.36,6,Junio,2016,0.50,1
+247,1,Chamarra Azul - Mediana,71.70,71.70,7,Julio,2016,0.00,0
+248,1,Chamarra Azul - Mediana,71.70,71.70,8,Agosto,2016,0.00,0
+249,1,Chamarra Azul - Mediana,71.70,71.70,9,Septiembre,2016,0.00,0
+250,1,Chamarra Azul - Mediana,71.70,71.70,10,Octubre,2016,0.00,0
+251,1,Chamarra Azul - Mediana,71.70,71.70,11,Noviembre,2016,0.00,0
+252,1,Chamarra Azul - Mediana,71.70,71.70,12,Diciembre,2016,0.00,0
+253,1,Chamarra Azul - Mediana,68.11,68.11,1,Enero,2017,0.00,0
+254,1,Chamarra Azul - Mediana,68.11,68.11,2,Febrero,2017,0.00,0
+255,1,Chamarra Azul - Mediana,68.11,68.11,3,Marzo,2017,0.00,0
+256,1,Chamarra Azul - Mediana,68.11,54.49,4,Abril,2017,0.50,1
+257,1,Chamarra Azul - Mediana,68.11,68.11,5,Mayo,2017,0.00,0
+258,1,Chamarra Azul - Mediana,68.11,54.49,6,Junio,2017,0.30,1
+259,1,Chamarra Azul - Mediana,68.11,68.11,7,Julio,2017,0.00,0
+260,1,Chamarra Azul - Mediana,68.11,68.11,8,Agosto,2017,0.00,0
+261,1,Chamarra Azul - Mediana,68.11,68.11,9,Septiembre,2017,0.00,0
+262,1,Chamarra Azul - Mediana,68.11,68.11,10,Octubre,2017,0.00,0
+263,1,Chamarra Azul - Mediana,68.11,68.11,11,Noviembre,2017,0.00,0
+264,1,Chamarra Azul - Mediana,68.11,68.11,12,Diciembre,2017,0.00,0
+265,1,Chamarra Azul - Mediana,64.71,64.71,1,Enero,2018,0.00,0
+266,1,Chamarra Azul - Mediana,64.71,64.71,2,Febrero,2018,0.00,0
+267,1,Chamarra Azul - Mediana,64.71,64.71,3,Marzo,2018,0.00,0
+268,1,Chamarra Azul - Mediana,64.71,51.77,4,Abril,2018,0.50,1
+269,1,Chamarra Azul - Mediana,64.71,64.71,5,Mayo,2018,0.00,0
+270,1,Chamarra Azul - Mediana,64.71,51.77,6,Junio,2018,0.30,1
+271,1,Chamarra Azul - Mediana,64.71,64.71,7,Julio,2018,0.00,0
+272,1,Chamarra Azul - Mediana,64.71,64.71,8,Agosto,2018,0.00,0
+273,1,Chamarra Azul - Mediana,64.71,64.71,9,Septiembre,2018,0.00,0
+274,1,Chamarra Azul - Mediana,64.71,64.71,10,Octubre,2018,0.00,0
+275,1,Chamarra Azul - Mediana,64.71,64.71,11,Noviembre,2018,0.00,0
+276,1,Chamarra Azul - Mediana,64.71,64.71,12,Diciembre,2018,0.00,0
+277,2,Intel i7 8700k,7027.91,5622.33,1,Enero,2017,0.30,1
+278,2,Intel i7 8700k,7027.91,7027.91,2,Febrero,2017,0.00,0
+279,2,Intel i7 8700k,7027.91,7027.91,3,Marzo,2017,0.00,0
+280,2,Intel i7 8700k,7027.91,7027.91,4,Abril,2017,0.00,0
+281,2,Intel i7 8700k,7027.91,7027.91,5,Mayo,2017,0.00,0
+282,2,Intel i7 8700k,7027.91,7027.91,6,Junio,2017,0.00,0
+283,2,Intel i7 8700k,7027.91,7027.91,7,Julio,2017,0.00,0
+284,2,Intel i7 8700k,7027.91,7027.91,8,Agosto,2017,0.00,0
+285,2,Intel i7 8700k,7027.91,7027.91,9,Septiembre,2017,0.00,0
+286,2,Intel i7 8700k,7027.91,7027.91,10,Octubre,2017,0.00,0
+287,2,Intel i7 8700k,7027.91,7027.91,11,Noviembre,2017,0.00,0
+288,2,Intel i7 8700k,7027.91,7027.91,12,Diciembre,2017,0.00,0
+289,2,Intel i7 8700k,6465.68,5172.54,1,Enero,2018,0.30,1
+290,2,Intel i7 8700k,6465.68,6465.68,2,Febrero,2018,0.00,0
+291,2,Intel i7 8700k,6465.68,6465.68,3,Marzo,2018,0.00,0
+292,2,Intel i7 8700k,6465.68,6465.68,4,Abril,2018,0.00,0
+293,2,Intel i7 8700k,6465.68,6465.68,5,Mayo,2018,0.00,0
+294,2,Intel i7 8700k,6465.68,6465.68,6,Junio,2018,0.00,0
+295,2,Intel i7 8700k,6465.68,6465.68,7,Julio,2018,0.00,0
+296,2,Intel i7 8700k,6465.68,6465.68,8,Agosto,2018,0.00,0
+297,2,Intel i7 8700k,6465.68,6465.68,9,Septiembre,2018,0.00,0
+298,2,Intel i7 8700k,6465.68,6465.68,10,Octubre,2018,0.00,0
+299,2,Intel i7 8700k,6465.68,6465.68,11,Noviembre,2018,0.00,0
+300,2,Intel i7 8700k,6465.68,6465.68,12,Diciembre,2018,0.00,0
+301,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,1,Enero,2017,0.00,0
+302,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,2,Febrero,2017,0.00,0
+303,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,3,Marzo,2017,0.00,0
+304,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,4,Abril,2017,0.00,0
+305,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,5,Mayo,2017,0.00,0
+306,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,6,Junio,2017,0.50,1
+307,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,7,Julio,2017,0.50,1
+308,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,8,Agosto,2017,0.20,1
+309,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,9,Septiembre,2017,0.00,0
+310,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,10,Octubre,2017,0.00,0
+311,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,11,Noviembre,2017,0.00,0
+312,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,12,Diciembre,2017,0.00,0
+313,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,1,Enero,2018,0.00,0
+314,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,2,Febrero,2018,0.00,0
+315,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,3,Marzo,2018,0.00,0
+316,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,4,Abril,2018,0.00,0
+317,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,5,Mayo,2018,0.00,0
+318,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,6,Junio,2018,0.30,1
+319,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,7,Julio,2018,0.40,1
+320,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,8,Agosto,2018,0.30,1
+321,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,9,Septiembre,2018,0.00,0
+322,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,10,Octubre,2018,0.00,0
+323,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,11,Noviembre,2018,0.00,0
+324,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,12,Diciembre,2018,0.00,0
+325,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,1,Enero,2015,0.00,0
+326,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,2,Febrero,2015,0.00,0
+327,4,iPhone 6S - Gris Espacial - 64GB,18000.00,14400.00,3,Marzo,2015,0.40,1
+328,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,4,Abril,2015,0.00,0
+329,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,5,Mayo,2015,0.00,0
+330,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,6,Junio,2015,0.00,0
+331,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,7,Julio,2015,0.00,0
+332,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,8,Agosto,2015,0.00,0
+333,4,iPhone 6S - Gris Espacial - 64GB,18000.00,14400.00,9,Septiembre,2015,0.30,1
+334,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,10,Octubre,2015,0.00,0
+335,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,11,Noviembre,2015,0.00,0
+336,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,12,Diciembre,2015,0.00,0
+337,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,1,Enero,2016,0.00,0
+338,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,2,Febrero,2016,0.00,0
+339,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,3,Marzo,2016,0.50,1
+340,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,4,Abril,2016,0.00,0
+341,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,5,Mayo,2016,0.00,0
+342,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,6,Junio,2016,0.00,0
+343,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,7,Julio,2016,0.00,0
+344,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,8,Agosto,2016,0.00,0
+345,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,9,Septiembre,2016,0.50,1
+346,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,10,Octubre,2016,0.00,0
+347,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,11,Noviembre,2016,0.00,0
+348,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,12,Diciembre,2016,0.00,0
+349,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,1,Enero,2017,0.00,0
+350,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,2,Febrero,2017,0.00,0
+351,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,3,Marzo,2017,0.50,1
+352,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,4,Abril,2017,0.00,0
+353,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,5,Mayo,2017,0.00,0
+354,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,6,Junio,2017,0.00,0
+355,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,7,Julio,2017,0.00,0
+356,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,8,Agosto,2017,0.00,0
+357,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,9,Septiembre,2017,0.40,1
+358,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,10,Octubre,2017,0.00,0
+359,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,11,Noviembre,2017,0.00,0
+360,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,12,Diciembre,2017,0.00,0
+361,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,1,Enero,2018,0.00,0
+362,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,2,Febrero,2018,0.00,0
+363,4,iPhone 6S - Gris Espacial - 64GB,16941.46,13553.16,3,Marzo,2018,0.40,1
+364,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,4,Abril,2018,0.00,0
+365,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,5,Mayo,2018,0.00,0
+366,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,6,Junio,2018,0.00,0
+367,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,7,Julio,2018,0.00,0
+368,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,8,Agosto,2018,0.00,0
+369,4,iPhone 6S - Gris Espacial - 64GB,16941.46,13553.16,9,Septiembre,2018,0.50,1
+370,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,10,Octubre,2018,0.00,0
+371,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,11,Noviembre,2018,0.00,0
+372,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,12,Diciembre,2018,0.00,0
+373,5,Wacom CTL4100,1298.99,1039.19,1,Enero,2008,0.50,1
+374,5,Wacom CTL4100,1298.99,1298.99,2,Febrero,2008,0.00,0
+375,5,Wacom CTL4100,1298.99,1298.99,3,Marzo,2008,0.00,0
+376,5,Wacom CTL4100,1298.99,1298.99,4,Abril,2008,0.00,0
+377,5,Wacom CTL4100,1298.99,1298.99,5,Mayo,2008,0.00,0
+378,5,Wacom CTL4100,1298.99,1039.19,6,Junio,2008,0.50,1
+379,5,Wacom CTL4100,1298.99,1039.19,7,Julio,2008,0.30,1
+380,5,Wacom CTL4100,1298.99,1298.99,8,Agosto,2008,0.00,0
+381,5,Wacom CTL4100,1298.99,1039.19,9,Septiembre,2008,0.20,1
+382,5,Wacom CTL4100,1298.99,1298.99,10,Octubre,2008,0.00,0
+383,5,Wacom CTL4100,1298.99,1298.99,11,Noviembre,2008,0.00,0
+384,5,Wacom CTL4100,1298.99,1298.99,12,Diciembre,2008,0.00,0
+385,5,Wacom CTL4100,1234.04,987.23,1,Enero,2009,0.50,1
+386,5,Wacom CTL4100,1234.04,1234.04,2,Febrero,2009,0.00,0
+387,5,Wacom CTL4100,1234.04,1234.04,3,Marzo,2009,0.00,0
+388,5,Wacom CTL4100,1234.04,1234.04,4,Abril,2009,0.00,0
+389,5,Wacom CTL4100,1234.04,1234.04,5,Mayo,2009,0.00,0
+390,5,Wacom CTL4100,1234.04,987.23,6,Junio,2009,0.20,1
+391,5,Wacom CTL4100,1234.04,987.23,7,Julio,2009,0.40,1
+392,5,Wacom CTL4100,1234.04,1234.04,8,Agosto,2009,0.00,0
+393,5,Wacom CTL4100,1234.04,987.23,9,Septiembre,2009,0.50,1
+394,5,Wacom CTL4100,1234.04,1234.04,10,Octubre,2009,0.00,0
+395,5,Wacom CTL4100,1234.04,1234.04,11,Noviembre,2009,0.00,0
+396,5,Wacom CTL4100,1234.04,1234.04,12,Diciembre,2009,0.00,0
+397,5,Wacom CTL4100,1172.34,937.87,1,Enero,2010,0.20,1
+398,5,Wacom CTL4100,1172.34,1172.34,2,Febrero,2010,0.00,0
+399,5,Wacom CTL4100,1172.34,1172.34,3,Marzo,2010,0.00,0
+400,5,Wacom CTL4100,1172.34,1172.34,4,Abril,2010,0.00,0
+401,5,Wacom CTL4100,1172.34,1172.34,5,Mayo,2010,0.00,0
+402,5,Wacom CTL4100,1172.34,937.87,6,Junio,2010,0.50,1
+403,5,Wacom CTL4100,1172.34,937.87,7,Julio,2010,0.50,1
+404,5,Wacom CTL4100,1172.34,1172.34,8,Agosto,2010,0.00,0
+405,5,Wacom CTL4100,1172.34,937.87,9,Septiembre,2010,0.50,1
+406,5,Wacom CTL4100,1172.34,1172.34,10,Octubre,2010,0.00,0
+407,5,Wacom CTL4100,1172.34,1172.34,11,Noviembre,2010,0.00,0
+408,5,Wacom CTL4100,1172.34,1172.34,12,Diciembre,2010,0.00,0
+409,5,Wacom CTL4100,1113.72,890.98,1,Enero,2011,0.40,1
+410,5,Wacom CTL4100,1113.72,1113.72,2,Febrero,2011,0.00,0
+411,5,Wacom CTL4100,1113.72,1113.72,3,Marzo,2011,0.00,0
+412,5,Wacom CTL4100,1113.72,1113.72,4,Abril,2011,0.00,0
+413,5,Wacom CTL4100,1113.72,1113.72,5,Mayo,2011,0.00,0
+414,5,Wacom CTL4100,1113.72,890.98,6,Junio,2011,0.50,1
+415,5,Wacom CTL4100,1113.72,890.98,7,Julio,2011,0.30,1
+416,5,Wacom CTL4100,1113.72,1113.72,8,Agosto,2011,0.00,0
+417,5,Wacom CTL4100,1113.72,890.98,9,Septiembre,2011,0.40,1
+418,5,Wacom CTL4100,1113.72,1113.72,10,Octubre,2011,0.00,0
+419,5,Wacom CTL4100,1113.72,1113.72,11,Noviembre,2011,0.00,0
+420,5,Wacom CTL4100,1113.72,1113.72,12,Diciembre,2011,0.00,0
+421,5,Wacom CTL4100,1058.04,846.43,1,Enero,2012,0.50,1
+422,5,Wacom CTL4100,1058.04,1058.04,2,Febrero,2012,0.00,0
+423,5,Wacom CTL4100,1058.04,1058.04,3,Marzo,2012,0.00,0
+424,5,Wacom CTL4100,1058.04,1058.04,4,Abril,2012,0.00,0
+425,5,Wacom CTL4100,1058.04,1058.04,5,Mayo,2012,0.00,0
+426,5,Wacom CTL4100,1058.04,846.43,6,Junio,2012,0.50,1
+427,5,Wacom CTL4100,1058.04,846.43,7,Julio,2012,0.20,1
+428,5,Wacom CTL4100,1058.04,1058.04,8,Agosto,2012,0.00,0
+429,5,Wacom CTL4100,1058.04,846.43,9,Septiembre,2012,0.50,1
+430,5,Wacom CTL4100,1058.04,1058.04,10,Octubre,2012,0.00,0
+431,5,Wacom CTL4100,1058.04,1058.04,11,Noviembre,2012,0.00,0
+432,5,Wacom CTL4100,1058.04,1058.04,12,Diciembre,2012,0.00,0
+433,5,Wacom CTL4100,1005.13,804.11,1,Enero,2013,0.50,1
+434,5,Wacom CTL4100,1005.13,1005.13,2,Febrero,2013,0.00,0
+435,5,Wacom CTL4100,1005.13,1005.13,3,Marzo,2013,0.00,0
+436,5,Wacom CTL4100,1005.13,1005.13,4,Abril,2013,0.00,0
+437,5,Wacom CTL4100,1005.13,1005.13,5,Mayo,2013,0.00,0
+438,5,Wacom CTL4100,1005.13,804.11,6,Junio,2013,0.20,1
+439,5,Wacom CTL4100,1005.13,804.11,7,Julio,2013,0.40,1
+440,5,Wacom CTL4100,1005.13,1005.13,8,Agosto,2013,0.00,0
+441,5,Wacom CTL4100,1005.13,804.11,9,Septiembre,2013,0.30,1
+442,5,Wacom CTL4100,1005.13,1005.13,10,Octubre,2013,0.00,0
+443,5,Wacom CTL4100,1005.13,1005.13,11,Noviembre,2013,0.00,0
+444,5,Wacom CTL4100,1005.13,1005.13,12,Diciembre,2013,0.00,0
+445,5,Wacom CTL4100,954.88,763.90,1,Enero,2014,0.20,1
+446,5,Wacom CTL4100,954.88,954.88,2,Febrero,2014,0.00,0
+447,5,Wacom CTL4100,954.88,954.88,3,Marzo,2014,0.00,0
+448,5,Wacom CTL4100,954.88,954.88,4,Abril,2014,0.00,0
+449,5,Wacom CTL4100,954.88,954.88,5,Mayo,2014,0.00,0
+450,5,Wacom CTL4100,954.88,763.90,6,Junio,2014,0.50,1
+451,5,Wacom CTL4100,954.88,763.90,7,Julio,2014,0.50,1
+452,5,Wacom CTL4100,954.88,954.88,8,Agosto,2014,0.00,0
+453,5,Wacom CTL4100,954.88,763.90,9,Septiembre,2014,0.30,1
+454,5,Wacom CTL4100,954.88,954.88,10,Octubre,2014,0.00,0
+455,5,Wacom CTL4100,954.88,954.88,11,Noviembre,2014,0.00,0
+456,5,Wacom CTL4100,954.88,954.88,12,Diciembre,2014,0.00,0
+457,5,Wacom CTL4100,907.13,725.71,1,Enero,2015,0.30,1
+458,5,Wacom CTL4100,907.13,907.13,2,Febrero,2015,0.00,0
+459,5,Wacom CTL4100,907.13,907.13,3,Marzo,2015,0.00,0
+460,5,Wacom CTL4100,907.13,907.13,4,Abril,2015,0.00,0
+461,5,Wacom CTL4100,907.13,907.13,5,Mayo,2015,0.00,0
+462,5,Wacom CTL4100,907.13,725.71,6,Junio,2015,0.30,1
+463,5,Wacom CTL4100,907.13,725.71,7,Julio,2015,0.30,1
+464,5,Wacom CTL4100,907.13,907.13,8,Agosto,2015,0.00,0
+465,5,Wacom CTL4100,907.13,725.71,9,Septiembre,2015,0.20,1
+466,5,Wacom CTL4100,907.13,907.13,10,Octubre,2015,0.00,0
+467,5,Wacom CTL4100,907.13,907.13,11,Noviembre,2015,0.00,0
+468,5,Wacom CTL4100,907.13,907.13,12,Diciembre,2015,0.00,0
+469,5,Wacom CTL4100,861.78,689.42,1,Enero,2016,0.30,1
+470,5,Wacom CTL4100,861.78,861.78,2,Febrero,2016,0.00,0
+471,5,Wacom CTL4100,861.78,861.78,3,Marzo,2016,0.00,0
+472,5,Wacom CTL4100,861.78,861.78,4,Abril,2016,0.00,0
+473,5,Wacom CTL4100,861.78,861.78,5,Mayo,2016,0.00,0
+474,5,Wacom CTL4100,861.78,689.42,6,Junio,2016,0.40,1
+475,5,Wacom CTL4100,861.78,689.42,7,Julio,2016,0.50,1
+476,5,Wacom CTL4100,861.78,861.78,8,Agosto,2016,0.00,0
+477,5,Wacom CTL4100,861.78,689.42,9,Septiembre,2016,0.40,1
+478,5,Wacom CTL4100,861.78,861.78,10,Octubre,2016,0.00,0
+479,5,Wacom CTL4100,861.78,861.78,11,Noviembre,2016,0.00,0
+480,5,Wacom CTL4100,861.78,861.78,12,Diciembre,2016,0.00,0
+481,5,Wacom CTL4100,818.69,654.95,1,Enero,2017,0.30,1
+482,5,Wacom CTL4100,818.69,818.69,2,Febrero,2017,0.00,0
+483,5,Wacom CTL4100,818.69,818.69,3,Marzo,2017,0.00,0
+484,5,Wacom CTL4100,818.69,818.69,4,Abril,2017,0.00,0
+485,5,Wacom CTL4100,818.69,818.69,5,Mayo,2017,0.00,0
+486,5,Wacom CTL4100,818.69,654.95,6,Junio,2017,0.30,1
+487,5,Wacom CTL4100,818.69,654.95,7,Julio,2017,0.40,1
+488,5,Wacom CTL4100,818.69,818.69,8,Agosto,2017,0.00,0
+489,5,Wacom CTL4100,818.69,654.95,9,Septiembre,2017,0.30,1
+490,5,Wacom CTL4100,818.69,818.69,10,Octubre,2017,0.00,0
+491,5,Wacom CTL4100,818.69,818.69,11,Noviembre,2017,0.00,0
+492,5,Wacom CTL4100,818.69,818.69,12,Diciembre,2017,0.00,0
+493,5,Wacom CTL4100,777.75,622.20,1,Enero,2018,0.30,1
+494,5,Wacom CTL4100,777.75,777.75,2,Febrero,2018,0.00,0
+495,5,Wacom CTL4100,777.75,777.75,3,Marzo,2018,0.00,0
+496,5,Wacom CTL4100,777.75,777.75,4,Abril,2018,0.00,0
+497,5,Wacom CTL4100,777.75,777.75,5,Mayo,2018,0.00,0
+498,5,Wacom CTL4100,777.75,622.20,6,Junio,2018,0.40,1
+499,5,Wacom CTL4100,777.75,622.20,7,Julio,2018,0.30,1
+500,5,Wacom CTL4100,777.75,777.75,8,Agosto,2018,0.00,0
+501,5,Wacom CTL4100,777.75,622.20,9,Septiembre,2018,0.20,1
+502,5,Wacom CTL4100,777.75,777.75,10,Octubre,2018,0.00,0
+503,5,Wacom CTL4100,777.75,777.75,11,Noviembre,2018,0.00,0
+504,5,Wacom CTL4100,777.75,777.75,12,Diciembre,2018,0.00,0
+505,6,Botas de Vaquero,2003.83,2003.83,1,Enero,2014,0.00,0
+506,6,Botas de Vaquero,2003.83,2003.83,2,Febrero,2014,0.00,0
+507,6,Botas de Vaquero,2003.83,2003.83,3,Marzo,2014,0.00,0
+508,6,Botas de Vaquero,2003.83,2003.83,4,Abril,2014,0.00,0
+509,6,Botas de Vaquero,2003.83,2003.83,5,Mayo,2014,0.00,0
+510,6,Botas de Vaquero,2003.83,2003.83,6,Junio,2014,0.00,0
+511,6,Botas de Vaquero,2003.83,2003.83,7,Julio,2014,0.00,0
+512,6,Botas de Vaquero,2003.83,2003.83,8,Agosto,2014,0.00,0
+513,6,Botas de Vaquero,2003.83,2003.83,9,Septiembre,2014,0.00,0
+514,6,Botas de Vaquero,2003.83,2003.83,10,Octubre,2014,0.00,0
+515,6,Botas de Vaquero,2003.83,2003.83,11,Noviembre,2014,0.00,0
+516,6,Botas de Vaquero,2003.83,2003.83,12,Diciembre,2014,0.00,0
+517,6,Botas de Vaquero,1803.45,1803.45,1,Enero,2015,0.00,0
+518,6,Botas de Vaquero,1803.45,1803.45,2,Febrero,2015,0.00,0
+519,6,Botas de Vaquero,1803.45,1803.45,3,Marzo,2015,0.00,0
+520,6,Botas de Vaquero,1803.45,1803.45,4,Abril,2015,0.00,0
+521,6,Botas de Vaquero,1803.45,1803.45,5,Mayo,2015,0.00,0
+522,6,Botas de Vaquero,1803.45,1803.45,6,Junio,2015,0.00,0
+523,6,Botas de Vaquero,1803.45,1803.45,7,Julio,2015,0.00,0
+524,6,Botas de Vaquero,1803.45,1803.45,8,Agosto,2015,0.00,0
+525,6,Botas de Vaquero,1803.45,1803.45,9,Septiembre,2015,0.00,0
+526,6,Botas de Vaquero,1803.45,1803.45,10,Octubre,2015,0.00,0
+527,6,Botas de Vaquero,1803.45,1803.45,11,Noviembre,2015,0.00,0
+528,6,Botas de Vaquero,1803.45,1803.45,12,Diciembre,2015,0.00,0
+529,6,Botas de Vaquero,1623.10,1623.10,1,Enero,2016,0.00,0
+530,6,Botas de Vaquero,1623.10,1623.10,2,Febrero,2016,0.00,0
+531,6,Botas de Vaquero,1623.10,1623.10,3,Marzo,2016,0.00,0
+532,6,Botas de Vaquero,1623.10,1623.10,4,Abril,2016,0.00,0
+533,6,Botas de Vaquero,1623.10,1623.10,5,Mayo,2016,0.00,0
+534,6,Botas de Vaquero,1623.10,1623.10,6,Junio,2016,0.00,0
+535,6,Botas de Vaquero,1623.10,1623.10,7,Julio,2016,0.00,0
+536,6,Botas de Vaquero,1623.10,1623.10,8,Agosto,2016,0.00,0
+537,6,Botas de Vaquero,1623.10,1623.10,9,Septiembre,2016,0.00,0
+538,6,Botas de Vaquero,1623.10,1623.10,10,Octubre,2016,0.00,0
+539,6,Botas de Vaquero,1623.10,1623.10,11,Noviembre,2016,0.00,0
+540,6,Botas de Vaquero,1623.10,1623.10,12,Diciembre,2016,0.00,0
+541,6,Botas de Vaquero,1460.79,1460.79,1,Enero,2017,0.00,0
+542,6,Botas de Vaquero,1460.79,1460.79,2,Febrero,2017,0.00,0
+543,6,Botas de Vaquero,1460.79,1460.79,3,Marzo,2017,0.00,0
+544,6,Botas de Vaquero,1460.79,1460.79,4,Abril,2017,0.00,0
+545,6,Botas de Vaquero,1460.79,1460.79,5,Mayo,2017,0.00,0
+546,6,Botas de Vaquero,1460.79,1460.79,6,Junio,2017,0.00,0
+547,6,Botas de Vaquero,1460.79,1460.79,7,Julio,2017,0.00,0
+548,6,Botas de Vaquero,1460.79,1460.79,8,Agosto,2017,0.00,0
+549,6,Botas de Vaquero,1460.79,1460.79,9,Septiembre,2017,0.00,0
+550,6,Botas de Vaquero,1460.79,1460.79,10,Octubre,2017,0.00,0
+551,6,Botas de Vaquero,1460.79,1460.79,11,Noviembre,2017,0.00,0
+552,6,Botas de Vaquero,1460.79,1460.79,12,Diciembre,2017,0.00,0
+553,6,Botas de Vaquero,1314.71,1314.71,1,Enero,2018,0.00,0
+554,6,Botas de Vaquero,1314.71,1314.71,2,Febrero,2018,0.00,0
+555,6,Botas de Vaquero,1314.71,1314.71,3,Marzo,2018,0.00,0
+556,6,Botas de Vaquero,1314.71,1314.71,4,Abril,2018,0.00,0
+557,6,Botas de Vaquero,1314.71,1314.71,5,Mayo,2018,0.00,0
+558,6,Botas de Vaquero,1314.71,1314.71,6,Junio,2018,0.00,0
+559,6,Botas de Vaquero,1314.71,1314.71,7,Julio,2018,0.00,0
+560,6,Botas de Vaquero,1314.71,1314.71,8,Agosto,2018,0.00,0
+561,6,Botas de Vaquero,1314.71,1314.71,9,Septiembre,2018,0.00,0
+562,6,Botas de Vaquero,1314.71,1314.71,10,Octubre,2018,0.00,0
+563,6,Botas de Vaquero,1314.71,1314.71,11,Noviembre,2018,0.00,0
+564,6,Botas de Vaquero,1314.71,1314.71,12,Diciembre,2018,0.00,0
