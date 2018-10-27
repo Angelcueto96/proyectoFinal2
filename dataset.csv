@@ -1,10 +1,10 @@
-RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Cantidad,Descuento_Bool
+RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Anio,Descuento_Cantidad,Descuento_Bool
 1,1,Chamarra Azul - Mediana,200.00,200.00,1,Enero,1996,0.00,0
 2,1,Chamarra Azul - Mediana,200.00,200.00,2,Febrero,1996,0.00,0
 3,1,Chamarra Azul - Mediana,200.00,200.00,3,Marzo,1996,0.00,0
 4,1,Chamarra Azul - Mediana,200.00,160.00,4,Abril,1996,0.30,1
 5,1,Chamarra Azul - Mediana,200.00,200.00,5,Mayo,1996,0.00,0
-6,1,Chamarra Azul - Mediana,200.00,160.00,6,Junio,1996,0.30,1
+6,1,Chamarra Azul - Mediana,200.00,160.00,6,Junio,1996,0.50,1
 7,1,Chamarra Azul - Mediana,200.00,200.00,7,Julio,1996,0.00,0
 8,1,Chamarra Azul - Mediana,200.00,200.00,8,Agosto,1996,0.00,0
 9,1,Chamarra Azul - Mediana,200.00,200.00,9,Septiembre,1996,0.00,0
@@ -14,9 +14,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 13,1,Chamarra Azul - Mediana,190.00,190.00,1,Enero,1997,0.00,0
 14,1,Chamarra Azul - Mediana,190.00,190.00,2,Febrero,1997,0.00,0
 15,1,Chamarra Azul - Mediana,190.00,190.00,3,Marzo,1997,0.00,0
-16,1,Chamarra Azul - Mediana,190.00,152.00,4,Abril,1997,0.30,1
+16,1,Chamarra Azul - Mediana,190.00,152.00,4,Abril,1997,0.20,1
 17,1,Chamarra Azul - Mediana,190.00,190.00,5,Mayo,1997,0.00,0
-18,1,Chamarra Azul - Mediana,190.00,152.00,6,Junio,1997,0.20,1
+18,1,Chamarra Azul - Mediana,190.00,152.00,6,Junio,1997,0.30,1
 19,1,Chamarra Azul - Mediana,190.00,190.00,7,Julio,1997,0.00,0
 20,1,Chamarra Azul - Mediana,190.00,190.00,8,Agosto,1997,0.00,0
 21,1,Chamarra Azul - Mediana,190.00,190.00,9,Septiembre,1997,0.00,0
@@ -26,7 +26,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 25,1,Chamarra Azul - Mediana,180.50,180.50,1,Enero,1998,0.00,0
 26,1,Chamarra Azul - Mediana,180.50,180.50,2,Febrero,1998,0.00,0
 27,1,Chamarra Azul - Mediana,180.50,180.50,3,Marzo,1998,0.00,0
-28,1,Chamarra Azul - Mediana,180.50,144.40,4,Abril,1998,0.50,1
+28,1,Chamarra Azul - Mediana,180.50,144.40,4,Abril,1998,0.20,1
 29,1,Chamarra Azul - Mediana,180.50,180.50,5,Mayo,1998,0.00,0
 30,1,Chamarra Azul - Mediana,180.50,144.40,6,Junio,1998,0.20,1
 31,1,Chamarra Azul - Mediana,180.50,180.50,7,Julio,1998,0.00,0
@@ -38,9 +38,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 37,1,Chamarra Azul - Mediana,171.47,171.47,1,Enero,1999,0.00,0
 38,1,Chamarra Azul - Mediana,171.47,171.47,2,Febrero,1999,0.00,0
 39,1,Chamarra Azul - Mediana,171.47,171.47,3,Marzo,1999,0.00,0
-40,1,Chamarra Azul - Mediana,171.47,137.18,4,Abril,1999,0.50,1
+40,1,Chamarra Azul - Mediana,171.47,137.18,4,Abril,1999,0.40,1
 41,1,Chamarra Azul - Mediana,171.47,171.47,5,Mayo,1999,0.00,0
-42,1,Chamarra Azul - Mediana,171.47,137.18,6,Junio,1999,0.50,1
+42,1,Chamarra Azul - Mediana,171.47,137.18,6,Junio,1999,0.30,1
 43,1,Chamarra Azul - Mediana,171.47,171.47,7,Julio,1999,0.00,0
 44,1,Chamarra Azul - Mediana,171.47,171.47,8,Agosto,1999,0.00,0
 45,1,Chamarra Azul - Mediana,171.47,171.47,9,Septiembre,1999,0.00,0
@@ -52,7 +52,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 51,1,Chamarra Azul - Mediana,162.90,162.90,3,Marzo,2000,0.00,0
 52,1,Chamarra Azul - Mediana,162.90,130.32,4,Abril,2000,0.50,1
 53,1,Chamarra Azul - Mediana,162.90,162.90,5,Mayo,2000,0.00,0
-54,1,Chamarra Azul - Mediana,162.90,130.32,6,Junio,2000,0.30,1
+54,1,Chamarra Azul - Mediana,162.90,130.32,6,Junio,2000,0.50,1
 55,1,Chamarra Azul - Mediana,162.90,162.90,7,Julio,2000,0.00,0
 56,1,Chamarra Azul - Mediana,162.90,162.90,8,Agosto,2000,0.00,0
 57,1,Chamarra Azul - Mediana,162.90,162.90,9,Septiembre,2000,0.00,0
@@ -74,9 +74,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 73,1,Chamarra Azul - Mediana,147.02,147.02,1,Enero,2002,0.00,0
 74,1,Chamarra Azul - Mediana,147.02,147.02,2,Febrero,2002,0.00,0
 75,1,Chamarra Azul - Mediana,147.02,147.02,3,Marzo,2002,0.00,0
-76,1,Chamarra Azul - Mediana,147.02,117.61,4,Abril,2002,0.40,1
+76,1,Chamarra Azul - Mediana,147.02,117.61,4,Abril,2002,0.20,1
 77,1,Chamarra Azul - Mediana,147.02,147.02,5,Mayo,2002,0.00,0
-78,1,Chamarra Azul - Mediana,147.02,117.61,6,Junio,2002,0.20,1
+78,1,Chamarra Azul - Mediana,147.02,117.61,6,Junio,2002,0.30,1
 79,1,Chamarra Azul - Mediana,147.02,147.02,7,Julio,2002,0.00,0
 80,1,Chamarra Azul - Mediana,147.02,147.02,8,Agosto,2002,0.00,0
 81,1,Chamarra Azul - Mediana,147.02,147.02,9,Septiembre,2002,0.00,0
@@ -86,9 +86,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 85,1,Chamarra Azul - Mediana,139.67,139.67,1,Enero,2003,0.00,0
 86,1,Chamarra Azul - Mediana,139.67,139.67,2,Febrero,2003,0.00,0
 87,1,Chamarra Azul - Mediana,139.67,139.67,3,Marzo,2003,0.00,0
-88,1,Chamarra Azul - Mediana,139.67,111.73,4,Abril,2003,0.40,1
+88,1,Chamarra Azul - Mediana,139.67,111.73,4,Abril,2003,0.50,1
 89,1,Chamarra Azul - Mediana,139.67,139.67,5,Mayo,2003,0.00,0
-90,1,Chamarra Azul - Mediana,139.67,111.73,6,Junio,2003,0.20,1
+90,1,Chamarra Azul - Mediana,139.67,111.73,6,Junio,2003,0.50,1
 91,1,Chamarra Azul - Mediana,139.67,139.67,7,Julio,2003,0.00,0
 92,1,Chamarra Azul - Mediana,139.67,139.67,8,Agosto,2003,0.00,0
 93,1,Chamarra Azul - Mediana,139.67,139.67,9,Septiembre,2003,0.00,0
@@ -100,7 +100,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 99,1,Chamarra Azul - Mediana,132.68,132.68,3,Marzo,2004,0.00,0
 100,1,Chamarra Azul - Mediana,132.68,106.15,4,Abril,2004,0.20,1
 101,1,Chamarra Azul - Mediana,132.68,132.68,5,Mayo,2004,0.00,0
-102,1,Chamarra Azul - Mediana,132.68,106.15,6,Junio,2004,0.50,1
+102,1,Chamarra Azul - Mediana,132.68,106.15,6,Junio,2004,0.30,1
 103,1,Chamarra Azul - Mediana,132.68,132.68,7,Julio,2004,0.00,0
 104,1,Chamarra Azul - Mediana,132.68,132.68,8,Agosto,2004,0.00,0
 105,1,Chamarra Azul - Mediana,132.68,132.68,9,Septiembre,2004,0.00,0
@@ -110,7 +110,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 109,1,Chamarra Azul - Mediana,126.05,126.05,1,Enero,2005,0.00,0
 110,1,Chamarra Azul - Mediana,126.05,126.05,2,Febrero,2005,0.00,0
 111,1,Chamarra Azul - Mediana,126.05,126.05,3,Marzo,2005,0.00,0
-112,1,Chamarra Azul - Mediana,126.05,100.84,4,Abril,2005,0.30,1
+112,1,Chamarra Azul - Mediana,126.05,100.84,4,Abril,2005,0.20,1
 113,1,Chamarra Azul - Mediana,126.05,126.05,5,Mayo,2005,0.00,0
 114,1,Chamarra Azul - Mediana,126.05,100.84,6,Junio,2005,0.30,1
 115,1,Chamarra Azul - Mediana,126.05,126.05,7,Julio,2005,0.00,0
@@ -122,9 +122,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 121,1,Chamarra Azul - Mediana,119.75,119.75,1,Enero,2006,0.00,0
 122,1,Chamarra Azul - Mediana,119.75,119.75,2,Febrero,2006,0.00,0
 123,1,Chamarra Azul - Mediana,119.75,119.75,3,Marzo,2006,0.00,0
-124,1,Chamarra Azul - Mediana,119.75,95.80,4,Abril,2006,0.50,1
+124,1,Chamarra Azul - Mediana,119.75,95.80,4,Abril,2006,0.20,1
 125,1,Chamarra Azul - Mediana,119.75,119.75,5,Mayo,2006,0.00,0
-126,1,Chamarra Azul - Mediana,119.75,95.80,6,Junio,2006,0.50,1
+126,1,Chamarra Azul - Mediana,119.75,95.80,6,Junio,2006,0.40,1
 127,1,Chamarra Azul - Mediana,119.75,119.75,7,Julio,2006,0.00,0
 128,1,Chamarra Azul - Mediana,119.75,119.75,8,Agosto,2006,0.00,0
 129,1,Chamarra Azul - Mediana,119.75,119.75,9,Septiembre,2006,0.00,0
@@ -136,7 +136,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 135,1,Chamarra Azul - Mediana,113.76,113.76,3,Marzo,2007,0.00,0
 136,1,Chamarra Azul - Mediana,113.76,91.01,4,Abril,2007,0.50,1
 137,1,Chamarra Azul - Mediana,113.76,113.76,5,Mayo,2007,0.00,0
-138,1,Chamarra Azul - Mediana,113.76,91.01,6,Junio,2007,0.20,1
+138,1,Chamarra Azul - Mediana,113.76,91.01,6,Junio,2007,0.50,1
 139,1,Chamarra Azul - Mediana,113.76,113.76,7,Julio,2007,0.00,0
 140,1,Chamarra Azul - Mediana,113.76,113.76,8,Agosto,2007,0.00,0
 141,1,Chamarra Azul - Mediana,113.76,113.76,9,Septiembre,2007,0.00,0
@@ -146,9 +146,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 145,1,Chamarra Azul - Mediana,108.07,108.07,1,Enero,2008,0.00,0
 146,1,Chamarra Azul - Mediana,108.07,108.07,2,Febrero,2008,0.00,0
 147,1,Chamarra Azul - Mediana,108.07,108.07,3,Marzo,2008,0.00,0
-148,1,Chamarra Azul - Mediana,108.07,86.46,4,Abril,2008,0.30,1
+148,1,Chamarra Azul - Mediana,108.07,86.46,4,Abril,2008,0.20,1
 149,1,Chamarra Azul - Mediana,108.07,108.07,5,Mayo,2008,0.00,0
-150,1,Chamarra Azul - Mediana,108.07,86.46,6,Junio,2008,0.40,1
+150,1,Chamarra Azul - Mediana,108.07,86.46,6,Junio,2008,0.20,1
 151,1,Chamarra Azul - Mediana,108.07,108.07,7,Julio,2008,0.00,0
 152,1,Chamarra Azul - Mediana,108.07,108.07,8,Agosto,2008,0.00,0
 153,1,Chamarra Azul - Mediana,108.07,108.07,9,Septiembre,2008,0.00,0
@@ -158,7 +158,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 157,1,Chamarra Azul - Mediana,102.67,102.67,1,Enero,2009,0.00,0
 158,1,Chamarra Azul - Mediana,102.67,102.67,2,Febrero,2009,0.00,0
 159,1,Chamarra Azul - Mediana,102.67,102.67,3,Marzo,2009,0.00,0
-160,1,Chamarra Azul - Mediana,102.67,82.13,4,Abril,2009,0.30,1
+160,1,Chamarra Azul - Mediana,102.67,82.13,4,Abril,2009,0.20,1
 161,1,Chamarra Azul - Mediana,102.67,102.67,5,Mayo,2009,0.00,0
 162,1,Chamarra Azul - Mediana,102.67,82.13,6,Junio,2009,0.20,1
 163,1,Chamarra Azul - Mediana,102.67,102.67,7,Julio,2009,0.00,0
@@ -172,7 +172,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 171,1,Chamarra Azul - Mediana,97.53,97.53,3,Marzo,2010,0.00,0
 172,1,Chamarra Azul - Mediana,97.53,78.03,4,Abril,2010,0.30,1
 173,1,Chamarra Azul - Mediana,97.53,97.53,5,Mayo,2010,0.00,0
-174,1,Chamarra Azul - Mediana,97.53,78.03,6,Junio,2010,0.30,1
+174,1,Chamarra Azul - Mediana,97.53,78.03,6,Junio,2010,0.20,1
 175,1,Chamarra Azul - Mediana,97.53,97.53,7,Julio,2010,0.00,0
 176,1,Chamarra Azul - Mediana,97.53,97.53,8,Agosto,2010,0.00,0
 177,1,Chamarra Azul - Mediana,97.53,97.53,9,Septiembre,2010,0.00,0
@@ -182,9 +182,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 181,1,Chamarra Azul - Mediana,92.66,92.66,1,Enero,2011,0.00,0
 182,1,Chamarra Azul - Mediana,92.66,92.66,2,Febrero,2011,0.00,0
 183,1,Chamarra Azul - Mediana,92.66,92.66,3,Marzo,2011,0.00,0
-184,1,Chamarra Azul - Mediana,92.66,74.13,4,Abril,2011,0.40,1
+184,1,Chamarra Azul - Mediana,92.66,74.13,4,Abril,2011,0.30,1
 185,1,Chamarra Azul - Mediana,92.66,92.66,5,Mayo,2011,0.00,0
-186,1,Chamarra Azul - Mediana,92.66,74.13,6,Junio,2011,0.50,1
+186,1,Chamarra Azul - Mediana,92.66,74.13,6,Junio,2011,0.30,1
 187,1,Chamarra Azul - Mediana,92.66,92.66,7,Julio,2011,0.00,0
 188,1,Chamarra Azul - Mediana,92.66,92.66,8,Agosto,2011,0.00,0
 189,1,Chamarra Azul - Mediana,92.66,92.66,9,Septiembre,2011,0.00,0
@@ -194,9 +194,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 193,1,Chamarra Azul - Mediana,88.03,88.03,1,Enero,2012,0.00,0
 194,1,Chamarra Azul - Mediana,88.03,88.03,2,Febrero,2012,0.00,0
 195,1,Chamarra Azul - Mediana,88.03,88.03,3,Marzo,2012,0.00,0
-196,1,Chamarra Azul - Mediana,88.03,70.42,4,Abril,2012,0.20,1
+196,1,Chamarra Azul - Mediana,88.03,70.42,4,Abril,2012,0.30,1
 197,1,Chamarra Azul - Mediana,88.03,88.03,5,Mayo,2012,0.00,0
-198,1,Chamarra Azul - Mediana,88.03,70.42,6,Junio,2012,0.50,1
+198,1,Chamarra Azul - Mediana,88.03,70.42,6,Junio,2012,0.40,1
 199,1,Chamarra Azul - Mediana,88.03,88.03,7,Julio,2012,0.00,0
 200,1,Chamarra Azul - Mediana,88.03,88.03,8,Agosto,2012,0.00,0
 201,1,Chamarra Azul - Mediana,88.03,88.03,9,Septiembre,2012,0.00,0
@@ -206,7 +206,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 205,1,Chamarra Azul - Mediana,83.62,83.62,1,Enero,2013,0.00,0
 206,1,Chamarra Azul - Mediana,83.62,83.62,2,Febrero,2013,0.00,0
 207,1,Chamarra Azul - Mediana,83.62,83.62,3,Marzo,2013,0.00,0
-208,1,Chamarra Azul - Mediana,83.62,66.90,4,Abril,2013,0.30,1
+208,1,Chamarra Azul - Mediana,83.62,66.90,4,Abril,2013,0.50,1
 209,1,Chamarra Azul - Mediana,83.62,83.62,5,Mayo,2013,0.00,0
 210,1,Chamarra Azul - Mediana,83.62,66.90,6,Junio,2013,0.20,1
 211,1,Chamarra Azul - Mediana,83.62,83.62,7,Julio,2013,0.00,0
@@ -218,9 +218,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 217,1,Chamarra Azul - Mediana,79.44,79.44,1,Enero,2014,0.00,0
 218,1,Chamarra Azul - Mediana,79.44,79.44,2,Febrero,2014,0.00,0
 219,1,Chamarra Azul - Mediana,79.44,79.44,3,Marzo,2014,0.00,0
-220,1,Chamarra Azul - Mediana,79.44,63.55,4,Abril,2014,0.50,1
+220,1,Chamarra Azul - Mediana,79.44,63.55,4,Abril,2014,0.20,1
 221,1,Chamarra Azul - Mediana,79.44,79.44,5,Mayo,2014,0.00,0
-222,1,Chamarra Azul - Mediana,79.44,63.55,6,Junio,2014,0.40,1
+222,1,Chamarra Azul - Mediana,79.44,63.55,6,Junio,2014,0.50,1
 223,1,Chamarra Azul - Mediana,79.44,79.44,7,Julio,2014,0.00,0
 224,1,Chamarra Azul - Mediana,79.44,79.44,8,Agosto,2014,0.00,0
 225,1,Chamarra Azul - Mediana,79.44,79.44,9,Septiembre,2014,0.00,0
@@ -232,7 +232,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 231,1,Chamarra Azul - Mediana,75.47,75.47,3,Marzo,2015,0.00,0
 232,1,Chamarra Azul - Mediana,75.47,60.38,4,Abril,2015,0.30,1
 233,1,Chamarra Azul - Mediana,75.47,75.47,5,Mayo,2015,0.00,0
-234,1,Chamarra Azul - Mediana,75.47,60.38,6,Junio,2015,0.20,1
+234,1,Chamarra Azul - Mediana,75.47,60.38,6,Junio,2015,0.30,1
 235,1,Chamarra Azul - Mediana,75.47,75.47,7,Julio,2015,0.00,0
 236,1,Chamarra Azul - Mediana,75.47,75.47,8,Agosto,2015,0.00,0
 237,1,Chamarra Azul - Mediana,75.47,75.47,9,Septiembre,2015,0.00,0
@@ -244,7 +244,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 243,1,Chamarra Azul - Mediana,71.70,71.70,3,Marzo,2016,0.00,0
 244,1,Chamarra Azul - Mediana,71.70,57.36,4,Abril,2016,0.30,1
 245,1,Chamarra Azul - Mediana,71.70,71.70,5,Mayo,2016,0.00,0
-246,1,Chamarra Azul - Mediana,71.70,57.36,6,Junio,2016,0.50,1
+246,1,Chamarra Azul - Mediana,71.70,57.36,6,Junio,2016,0.40,1
 247,1,Chamarra Azul - Mediana,71.70,71.70,7,Julio,2016,0.00,0
 248,1,Chamarra Azul - Mediana,71.70,71.70,8,Agosto,2016,0.00,0
 249,1,Chamarra Azul - Mediana,71.70,71.70,9,Septiembre,2016,0.00,0
@@ -254,9 +254,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 253,1,Chamarra Azul - Mediana,68.11,68.11,1,Enero,2017,0.00,0
 254,1,Chamarra Azul - Mediana,68.11,68.11,2,Febrero,2017,0.00,0
 255,1,Chamarra Azul - Mediana,68.11,68.11,3,Marzo,2017,0.00,0
-256,1,Chamarra Azul - Mediana,68.11,54.49,4,Abril,2017,0.50,1
+256,1,Chamarra Azul - Mediana,68.11,54.49,4,Abril,2017,0.40,1
 257,1,Chamarra Azul - Mediana,68.11,68.11,5,Mayo,2017,0.00,0
-258,1,Chamarra Azul - Mediana,68.11,54.49,6,Junio,2017,0.30,1
+258,1,Chamarra Azul - Mediana,68.11,54.49,6,Junio,2017,0.50,1
 259,1,Chamarra Azul - Mediana,68.11,68.11,7,Julio,2017,0.00,0
 260,1,Chamarra Azul - Mediana,68.11,68.11,8,Agosto,2017,0.00,0
 261,1,Chamarra Azul - Mediana,68.11,68.11,9,Septiembre,2017,0.00,0
@@ -266,16 +266,16 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 265,1,Chamarra Azul - Mediana,64.71,64.71,1,Enero,2018,0.00,0
 266,1,Chamarra Azul - Mediana,64.71,64.71,2,Febrero,2018,0.00,0
 267,1,Chamarra Azul - Mediana,64.71,64.71,3,Marzo,2018,0.00,0
-268,1,Chamarra Azul - Mediana,64.71,51.77,4,Abril,2018,0.50,1
+268,1,Chamarra Azul - Mediana,64.71,51.77,4,Abril,2018,0.40,1
 269,1,Chamarra Azul - Mediana,64.71,64.71,5,Mayo,2018,0.00,0
-270,1,Chamarra Azul - Mediana,64.71,51.77,6,Junio,2018,0.30,1
+270,1,Chamarra Azul - Mediana,64.71,51.77,6,Junio,2018,0.50,1
 271,1,Chamarra Azul - Mediana,64.71,64.71,7,Julio,2018,0.00,0
 272,1,Chamarra Azul - Mediana,64.71,64.71,8,Agosto,2018,0.00,0
 273,1,Chamarra Azul - Mediana,64.71,64.71,9,Septiembre,2018,0.00,0
 274,1,Chamarra Azul - Mediana,64.71,64.71,10,Octubre,2018,0.00,0
 275,1,Chamarra Azul - Mediana,64.71,64.71,11,Noviembre,2018,0.00,0
 276,1,Chamarra Azul - Mediana,64.71,64.71,12,Diciembre,2018,0.00,0
-277,2,Intel i7 8700k,7027.91,5622.33,1,Enero,2017,0.30,1
+277,2,Intel i7 8700k,7027.91,5622.33,1,Enero,2017,0.20,1
 278,2,Intel i7 8700k,7027.91,7027.91,2,Febrero,2017,0.00,0
 279,2,Intel i7 8700k,7027.91,7027.91,3,Marzo,2017,0.00,0
 280,2,Intel i7 8700k,7027.91,7027.91,4,Abril,2017,0.00,0
@@ -287,7 +287,7 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 286,2,Intel i7 8700k,7027.91,7027.91,10,Octubre,2017,0.00,0
 287,2,Intel i7 8700k,7027.91,7027.91,11,Noviembre,2017,0.00,0
 288,2,Intel i7 8700k,7027.91,7027.91,12,Diciembre,2017,0.00,0
-289,2,Intel i7 8700k,6465.68,5172.54,1,Enero,2018,0.30,1
+289,2,Intel i7 8700k,6465.68,5172.54,1,Enero,2018,0.20,1
 290,2,Intel i7 8700k,6465.68,6465.68,2,Febrero,2018,0.00,0
 291,2,Intel i7 8700k,6465.68,6465.68,3,Marzo,2018,0.00,0
 292,2,Intel i7 8700k,6465.68,6465.68,4,Abril,2018,0.00,0
@@ -304,8 +304,8 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 303,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,3,Marzo,2017,0.00,0
 304,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,4,Abril,2017,0.00,0
 305,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,5,Mayo,2017,0.00,0
-306,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,6,Junio,2017,0.50,1
-307,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,7,Julio,2017,0.50,1
+306,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,6,Junio,2017,0.20,1
+307,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,7,Julio,2017,0.20,1
 308,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,52000.00,8,Agosto,2017,0.20,1
 309,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,9,Septiembre,2017,0.00,0
 310,3,MacBook Pro 2017 15inch - 512GB - 16GB,65000.00,65000.00,10,Octubre,2017,0.00,0
@@ -316,9 +316,9 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 315,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,3,Marzo,2018,0.00,0
 316,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,4,Abril,2018,0.00,0
 317,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,5,Mayo,2018,0.00,0
-318,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,6,Junio,2018,0.30,1
-319,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,7,Julio,2018,0.40,1
-320,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,8,Agosto,2018,0.30,1
+318,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,6,Junio,2018,0.40,1
+319,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,7,Julio,2018,0.20,1
+320,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,50960.00,8,Agosto,2018,0.50,1
 321,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,9,Septiembre,2018,0.00,0
 322,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,10,Octubre,2018,0.00,0
 323,3,MacBook Pro 2017 15inch - 512GB - 16GB,63700.00,63700.00,11,Noviembre,2018,0.00,0
@@ -331,37 +331,37 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 330,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,6,Junio,2015,0.00,0
 331,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,7,Julio,2015,0.00,0
 332,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,8,Agosto,2015,0.00,0
-333,4,iPhone 6S - Gris Espacial - 64GB,18000.00,14400.00,9,Septiembre,2015,0.30,1
+333,4,iPhone 6S - Gris Espacial - 64GB,18000.00,14400.00,9,Septiembre,2015,0.20,1
 334,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,10,Octubre,2015,0.00,0
 335,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,11,Noviembre,2015,0.00,0
 336,4,iPhone 6S - Gris Espacial - 64GB,18000.00,18000.00,12,Diciembre,2015,0.00,0
 337,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,1,Enero,2016,0.00,0
 338,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,2,Febrero,2016,0.00,0
-339,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,3,Marzo,2016,0.50,1
+339,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,3,Marzo,2016,0.30,1
 340,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,4,Abril,2016,0.00,0
 341,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,5,Mayo,2016,0.00,0
 342,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,6,Junio,2016,0.00,0
 343,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,7,Julio,2016,0.00,0
 344,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,8,Agosto,2016,0.00,0
-345,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,9,Septiembre,2016,0.50,1
+345,4,iPhone 6S - Gris Espacial - 64GB,17640.00,14112.00,9,Septiembre,2016,0.20,1
 346,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,10,Octubre,2016,0.00,0
 347,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,11,Noviembre,2016,0.00,0
 348,4,iPhone 6S - Gris Espacial - 64GB,17640.00,17640.00,12,Diciembre,2016,0.00,0
 349,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,1,Enero,2017,0.00,0
 350,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,2,Febrero,2017,0.00,0
-351,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,3,Marzo,2017,0.50,1
+351,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,3,Marzo,2017,0.20,1
 352,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,4,Abril,2017,0.00,0
 353,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,5,Mayo,2017,0.00,0
 354,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,6,Junio,2017,0.00,0
 355,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,7,Julio,2017,0.00,0
 356,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,8,Agosto,2017,0.00,0
-357,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,9,Septiembre,2017,0.40,1
+357,4,iPhone 6S - Gris Espacial - 64GB,17287.20,13829.76,9,Septiembre,2017,0.20,1
 358,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,10,Octubre,2017,0.00,0
 359,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,11,Noviembre,2017,0.00,0
 360,4,iPhone 6S - Gris Espacial - 64GB,17287.20,17287.20,12,Diciembre,2017,0.00,0
 361,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,1,Enero,2018,0.00,0
 362,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,2,Febrero,2018,0.00,0
-363,4,iPhone 6S - Gris Espacial - 64GB,16941.46,13553.16,3,Marzo,2018,0.40,1
+363,4,iPhone 6S - Gris Espacial - 64GB,16941.46,13553.16,3,Marzo,2018,0.50,1
 364,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,4,Abril,2018,0.00,0
 365,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,5,Mayo,2018,0.00,0
 366,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,6,Junio,2018,0.00,0
@@ -371,39 +371,39 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 370,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,10,Octubre,2018,0.00,0
 371,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,11,Noviembre,2018,0.00,0
 372,4,iPhone 6S - Gris Espacial - 64GB,16941.46,16941.46,12,Diciembre,2018,0.00,0
-373,5,Wacom CTL4100,1298.99,1039.19,1,Enero,2008,0.50,1
+373,5,Wacom CTL4100,1298.99,1039.19,1,Enero,2008,0.30,1
 374,5,Wacom CTL4100,1298.99,1298.99,2,Febrero,2008,0.00,0
 375,5,Wacom CTL4100,1298.99,1298.99,3,Marzo,2008,0.00,0
 376,5,Wacom CTL4100,1298.99,1298.99,4,Abril,2008,0.00,0
 377,5,Wacom CTL4100,1298.99,1298.99,5,Mayo,2008,0.00,0
-378,5,Wacom CTL4100,1298.99,1039.19,6,Junio,2008,0.50,1
+378,5,Wacom CTL4100,1298.99,1039.19,6,Junio,2008,0.20,1
 379,5,Wacom CTL4100,1298.99,1039.19,7,Julio,2008,0.30,1
 380,5,Wacom CTL4100,1298.99,1298.99,8,Agosto,2008,0.00,0
 381,5,Wacom CTL4100,1298.99,1039.19,9,Septiembre,2008,0.20,1
 382,5,Wacom CTL4100,1298.99,1298.99,10,Octubre,2008,0.00,0
 383,5,Wacom CTL4100,1298.99,1298.99,11,Noviembre,2008,0.00,0
 384,5,Wacom CTL4100,1298.99,1298.99,12,Diciembre,2008,0.00,0
-385,5,Wacom CTL4100,1234.04,987.23,1,Enero,2009,0.50,1
+385,5,Wacom CTL4100,1234.04,987.23,1,Enero,2009,0.40,1
 386,5,Wacom CTL4100,1234.04,1234.04,2,Febrero,2009,0.00,0
 387,5,Wacom CTL4100,1234.04,1234.04,3,Marzo,2009,0.00,0
 388,5,Wacom CTL4100,1234.04,1234.04,4,Abril,2009,0.00,0
 389,5,Wacom CTL4100,1234.04,1234.04,5,Mayo,2009,0.00,0
-390,5,Wacom CTL4100,1234.04,987.23,6,Junio,2009,0.20,1
-391,5,Wacom CTL4100,1234.04,987.23,7,Julio,2009,0.40,1
+390,5,Wacom CTL4100,1234.04,987.23,6,Junio,2009,0.30,1
+391,5,Wacom CTL4100,1234.04,987.23,7,Julio,2009,0.20,1
 392,5,Wacom CTL4100,1234.04,1234.04,8,Agosto,2009,0.00,0
-393,5,Wacom CTL4100,1234.04,987.23,9,Septiembre,2009,0.50,1
+393,5,Wacom CTL4100,1234.04,987.23,9,Septiembre,2009,0.20,1
 394,5,Wacom CTL4100,1234.04,1234.04,10,Octubre,2009,0.00,0
 395,5,Wacom CTL4100,1234.04,1234.04,11,Noviembre,2009,0.00,0
 396,5,Wacom CTL4100,1234.04,1234.04,12,Diciembre,2009,0.00,0
-397,5,Wacom CTL4100,1172.34,937.87,1,Enero,2010,0.20,1
+397,5,Wacom CTL4100,1172.34,937.87,1,Enero,2010,0.40,1
 398,5,Wacom CTL4100,1172.34,1172.34,2,Febrero,2010,0.00,0
 399,5,Wacom CTL4100,1172.34,1172.34,3,Marzo,2010,0.00,0
 400,5,Wacom CTL4100,1172.34,1172.34,4,Abril,2010,0.00,0
 401,5,Wacom CTL4100,1172.34,1172.34,5,Mayo,2010,0.00,0
-402,5,Wacom CTL4100,1172.34,937.87,6,Junio,2010,0.50,1
-403,5,Wacom CTL4100,1172.34,937.87,7,Julio,2010,0.50,1
+402,5,Wacom CTL4100,1172.34,937.87,6,Junio,2010,0.40,1
+403,5,Wacom CTL4100,1172.34,937.87,7,Julio,2010,0.20,1
 404,5,Wacom CTL4100,1172.34,1172.34,8,Agosto,2010,0.00,0
-405,5,Wacom CTL4100,1172.34,937.87,9,Septiembre,2010,0.50,1
+405,5,Wacom CTL4100,1172.34,937.87,9,Septiembre,2010,0.40,1
 406,5,Wacom CTL4100,1172.34,1172.34,10,Octubre,2010,0.00,0
 407,5,Wacom CTL4100,1172.34,1172.34,11,Noviembre,2010,0.00,0
 408,5,Wacom CTL4100,1172.34,1172.34,12,Diciembre,2010,0.00,0
@@ -413,79 +413,79 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 412,5,Wacom CTL4100,1113.72,1113.72,4,Abril,2011,0.00,0
 413,5,Wacom CTL4100,1113.72,1113.72,5,Mayo,2011,0.00,0
 414,5,Wacom CTL4100,1113.72,890.98,6,Junio,2011,0.50,1
-415,5,Wacom CTL4100,1113.72,890.98,7,Julio,2011,0.30,1
+415,5,Wacom CTL4100,1113.72,890.98,7,Julio,2011,0.50,1
 416,5,Wacom CTL4100,1113.72,1113.72,8,Agosto,2011,0.00,0
-417,5,Wacom CTL4100,1113.72,890.98,9,Septiembre,2011,0.40,1
+417,5,Wacom CTL4100,1113.72,890.98,9,Septiembre,2011,0.20,1
 418,5,Wacom CTL4100,1113.72,1113.72,10,Octubre,2011,0.00,0
 419,5,Wacom CTL4100,1113.72,1113.72,11,Noviembre,2011,0.00,0
 420,5,Wacom CTL4100,1113.72,1113.72,12,Diciembre,2011,0.00,0
-421,5,Wacom CTL4100,1058.04,846.43,1,Enero,2012,0.50,1
+421,5,Wacom CTL4100,1058.04,846.43,1,Enero,2012,0.20,1
 422,5,Wacom CTL4100,1058.04,1058.04,2,Febrero,2012,0.00,0
 423,5,Wacom CTL4100,1058.04,1058.04,3,Marzo,2012,0.00,0
 424,5,Wacom CTL4100,1058.04,1058.04,4,Abril,2012,0.00,0
 425,5,Wacom CTL4100,1058.04,1058.04,5,Mayo,2012,0.00,0
 426,5,Wacom CTL4100,1058.04,846.43,6,Junio,2012,0.50,1
-427,5,Wacom CTL4100,1058.04,846.43,7,Julio,2012,0.20,1
+427,5,Wacom CTL4100,1058.04,846.43,7,Julio,2012,0.40,1
 428,5,Wacom CTL4100,1058.04,1058.04,8,Agosto,2012,0.00,0
-429,5,Wacom CTL4100,1058.04,846.43,9,Septiembre,2012,0.50,1
+429,5,Wacom CTL4100,1058.04,846.43,9,Septiembre,2012,0.30,1
 430,5,Wacom CTL4100,1058.04,1058.04,10,Octubre,2012,0.00,0
 431,5,Wacom CTL4100,1058.04,1058.04,11,Noviembre,2012,0.00,0
 432,5,Wacom CTL4100,1058.04,1058.04,12,Diciembre,2012,0.00,0
-433,5,Wacom CTL4100,1005.13,804.11,1,Enero,2013,0.50,1
+433,5,Wacom CTL4100,1005.13,804.11,1,Enero,2013,0.40,1
 434,5,Wacom CTL4100,1005.13,1005.13,2,Febrero,2013,0.00,0
 435,5,Wacom CTL4100,1005.13,1005.13,3,Marzo,2013,0.00,0
 436,5,Wacom CTL4100,1005.13,1005.13,4,Abril,2013,0.00,0
 437,5,Wacom CTL4100,1005.13,1005.13,5,Mayo,2013,0.00,0
 438,5,Wacom CTL4100,1005.13,804.11,6,Junio,2013,0.20,1
-439,5,Wacom CTL4100,1005.13,804.11,7,Julio,2013,0.40,1
+439,5,Wacom CTL4100,1005.13,804.11,7,Julio,2013,0.30,1
 440,5,Wacom CTL4100,1005.13,1005.13,8,Agosto,2013,0.00,0
 441,5,Wacom CTL4100,1005.13,804.11,9,Septiembre,2013,0.30,1
 442,5,Wacom CTL4100,1005.13,1005.13,10,Octubre,2013,0.00,0
 443,5,Wacom CTL4100,1005.13,1005.13,11,Noviembre,2013,0.00,0
 444,5,Wacom CTL4100,1005.13,1005.13,12,Diciembre,2013,0.00,0
-445,5,Wacom CTL4100,954.88,763.90,1,Enero,2014,0.20,1
+445,5,Wacom CTL4100,954.88,763.90,1,Enero,2014,0.30,1
 446,5,Wacom CTL4100,954.88,954.88,2,Febrero,2014,0.00,0
 447,5,Wacom CTL4100,954.88,954.88,3,Marzo,2014,0.00,0
 448,5,Wacom CTL4100,954.88,954.88,4,Abril,2014,0.00,0
 449,5,Wacom CTL4100,954.88,954.88,5,Mayo,2014,0.00,0
-450,5,Wacom CTL4100,954.88,763.90,6,Junio,2014,0.50,1
-451,5,Wacom CTL4100,954.88,763.90,7,Julio,2014,0.50,1
+450,5,Wacom CTL4100,954.88,763.90,6,Junio,2014,0.20,1
+451,5,Wacom CTL4100,954.88,763.90,7,Julio,2014,0.40,1
 452,5,Wacom CTL4100,954.88,954.88,8,Agosto,2014,0.00,0
-453,5,Wacom CTL4100,954.88,763.90,9,Septiembre,2014,0.30,1
+453,5,Wacom CTL4100,954.88,763.90,9,Septiembre,2014,0.20,1
 454,5,Wacom CTL4100,954.88,954.88,10,Octubre,2014,0.00,0
 455,5,Wacom CTL4100,954.88,954.88,11,Noviembre,2014,0.00,0
 456,5,Wacom CTL4100,954.88,954.88,12,Diciembre,2014,0.00,0
-457,5,Wacom CTL4100,907.13,725.71,1,Enero,2015,0.30,1
+457,5,Wacom CTL4100,907.13,725.71,1,Enero,2015,0.40,1
 458,5,Wacom CTL4100,907.13,907.13,2,Febrero,2015,0.00,0
 459,5,Wacom CTL4100,907.13,907.13,3,Marzo,2015,0.00,0
 460,5,Wacom CTL4100,907.13,907.13,4,Abril,2015,0.00,0
 461,5,Wacom CTL4100,907.13,907.13,5,Mayo,2015,0.00,0
 462,5,Wacom CTL4100,907.13,725.71,6,Junio,2015,0.30,1
-463,5,Wacom CTL4100,907.13,725.71,7,Julio,2015,0.30,1
+463,5,Wacom CTL4100,907.13,725.71,7,Julio,2015,0.20,1
 464,5,Wacom CTL4100,907.13,907.13,8,Agosto,2015,0.00,0
-465,5,Wacom CTL4100,907.13,725.71,9,Septiembre,2015,0.20,1
+465,5,Wacom CTL4100,907.13,725.71,9,Septiembre,2015,0.40,1
 466,5,Wacom CTL4100,907.13,907.13,10,Octubre,2015,0.00,0
 467,5,Wacom CTL4100,907.13,907.13,11,Noviembre,2015,0.00,0
 468,5,Wacom CTL4100,907.13,907.13,12,Diciembre,2015,0.00,0
-469,5,Wacom CTL4100,861.78,689.42,1,Enero,2016,0.30,1
+469,5,Wacom CTL4100,861.78,689.42,1,Enero,2016,0.50,1
 470,5,Wacom CTL4100,861.78,861.78,2,Febrero,2016,0.00,0
 471,5,Wacom CTL4100,861.78,861.78,3,Marzo,2016,0.00,0
 472,5,Wacom CTL4100,861.78,861.78,4,Abril,2016,0.00,0
 473,5,Wacom CTL4100,861.78,861.78,5,Mayo,2016,0.00,0
-474,5,Wacom CTL4100,861.78,689.42,6,Junio,2016,0.40,1
-475,5,Wacom CTL4100,861.78,689.42,7,Julio,2016,0.50,1
+474,5,Wacom CTL4100,861.78,689.42,6,Junio,2016,0.30,1
+475,5,Wacom CTL4100,861.78,689.42,7,Julio,2016,0.20,1
 476,5,Wacom CTL4100,861.78,861.78,8,Agosto,2016,0.00,0
-477,5,Wacom CTL4100,861.78,689.42,9,Septiembre,2016,0.40,1
+477,5,Wacom CTL4100,861.78,689.42,9,Septiembre,2016,0.30,1
 478,5,Wacom CTL4100,861.78,861.78,10,Octubre,2016,0.00,0
 479,5,Wacom CTL4100,861.78,861.78,11,Noviembre,2016,0.00,0
 480,5,Wacom CTL4100,861.78,861.78,12,Diciembre,2016,0.00,0
-481,5,Wacom CTL4100,818.69,654.95,1,Enero,2017,0.30,1
+481,5,Wacom CTL4100,818.69,654.95,1,Enero,2017,0.50,1
 482,5,Wacom CTL4100,818.69,818.69,2,Febrero,2017,0.00,0
 483,5,Wacom CTL4100,818.69,818.69,3,Marzo,2017,0.00,0
 484,5,Wacom CTL4100,818.69,818.69,4,Abril,2017,0.00,0
 485,5,Wacom CTL4100,818.69,818.69,5,Mayo,2017,0.00,0
-486,5,Wacom CTL4100,818.69,654.95,6,Junio,2017,0.30,1
-487,5,Wacom CTL4100,818.69,654.95,7,Julio,2017,0.40,1
+486,5,Wacom CTL4100,818.69,654.95,6,Junio,2017,0.20,1
+487,5,Wacom CTL4100,818.69,654.95,7,Julio,2017,0.20,1
 488,5,Wacom CTL4100,818.69,818.69,8,Agosto,2017,0.00,0
 489,5,Wacom CTL4100,818.69,654.95,9,Septiembre,2017,0.30,1
 490,5,Wacom CTL4100,818.69,818.69,10,Octubre,2017,0.00,0
@@ -496,8 +496,8 @@ RegId,Id,Producto,Precio de Mercado,Precio Final,Temporada,Mes,Año,Descuento_Ca
 495,5,Wacom CTL4100,777.75,777.75,3,Marzo,2018,0.00,0
 496,5,Wacom CTL4100,777.75,777.75,4,Abril,2018,0.00,0
 497,5,Wacom CTL4100,777.75,777.75,5,Mayo,2018,0.00,0
-498,5,Wacom CTL4100,777.75,622.20,6,Junio,2018,0.40,1
-499,5,Wacom CTL4100,777.75,622.20,7,Julio,2018,0.30,1
+498,5,Wacom CTL4100,777.75,622.20,6,Junio,2018,0.20,1
+499,5,Wacom CTL4100,777.75,622.20,7,Julio,2018,0.20,1
 500,5,Wacom CTL4100,777.75,777.75,8,Agosto,2018,0.00,0
 501,5,Wacom CTL4100,777.75,622.20,9,Septiembre,2018,0.20,1
 502,5,Wacom CTL4100,777.75,777.75,10,Octubre,2018,0.00,0
